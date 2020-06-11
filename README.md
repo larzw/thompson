@@ -1,2 +1,2 @@
-# thompson
+# thompson-ctis
 ctis
